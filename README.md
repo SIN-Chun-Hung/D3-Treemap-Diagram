@@ -6,8 +6,10 @@ This pen utilize tree map diagram to describe and visualize the data of video ga
 
 This page owner information.
 
-SIN,Chun Hung SIMON.
+SIN,Chun Hung SIMON. 
 
-HKUST graduate.
+HKUST Graduate. 
 
-Mathematician. Developer.
+Major in Mathematics.
+
+A Lifelong Learner.
